@@ -29,4 +29,4 @@
 
 # Другие решения
 * Модуль logos из OneScript: https://github.com/oscript-library/logos
-* Подсистема логирования на базе модуля logos из OneScript: https://github.com/1823244/logos-1c
+* Подсистема логирования на базе модуля logos: https://github.com/1823244/logos-1c
